@@ -1,0 +1,4 @@
+#Stored student
+#Thu Dec 31 11:30:41 IST 2020
+name=Srinivas
+details={"roll"\:"01","height"\:"5.8","weight"\:"65"}
